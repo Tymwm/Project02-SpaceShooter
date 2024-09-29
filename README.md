@@ -1,7 +1,5 @@
 # Project02-SpaceShooter
-
-# Project02-SpaceShooter
-Project for MSCH-C220 - Feb 10, 2024
+Project for MSCH-C220 - Sept. 28. 2024
 A basic space-shooter arcade game, created in Unity.
 
 ## Implementation
